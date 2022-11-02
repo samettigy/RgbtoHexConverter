@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; configuration.title = "RGB - HEX ÇEVİR"; ObjectID = "3GL-Av-EWa"; */
+"3GL-Av-EWa.configuration.title" = "RGB - HEX ÇEVİR";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3GL-Av-EWa"; */
+"3GL-Av-EWa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6rf-H8-kDZ"; */
+"6rf-H8-kDZ.text" = "Label";
+
+/* Class = "UISegmentedControl"; AtN-AG-noz.segmentTitles[0] = "RGB- HEX"; ObjectID = "AtN-AG-noz"; */
+"AtN-AG-noz.segmentTitles[0]" = "RGB- HEX";
+
+/* Class = "UISegmentedControl"; AtN-AG-noz.segmentTitles[1] = "HEX - RGB"; ObjectID = "AtN-AG-noz"; */
+"AtN-AG-noz.segmentTitles[1]" = "HEX - RGB";
+
+/* Class = "UITextField"; placeholder = "YEŞİL - GREEN"; ObjectID = "Kqg-sG-T32"; */
+"Kqg-sG-T32.placeholder" = "YEŞİL - GREEN";
+
+/* Class = "UILabel"; text = "Seçilen Renk"; ObjectID = "cMA-Af-cVy"; */
+"cMA-Af-cVy.text" = "Seçilen Renk";
+
+/* Class = "UITextField"; placeholder = "KIRMIZI - RED"; ObjectID = "gc2-Af-cB9"; */
+"gc2-Af-cB9.placeholder" = "KIRMIZI - RED";
+
+/* Class = "UITextField"; placeholder = "MAVİ - BLUE"; ObjectID = "nZd-kB-OYZ"; */
+"nZd-kB-OYZ.placeholder" = "MAVİ - BLUE";
